@@ -117,6 +117,8 @@ h2{
     transition: background-color 0.3s ease;
 }
 
+/*hover effect added on contact section*/
+
 #contact:hover{
     background-color: darkkhaki;
 }
@@ -127,7 +129,6 @@ h2{
 
 
 git add style.css
-
 
 
 
