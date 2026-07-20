@@ -55,6 +55,7 @@ h2{
     color: aliceblue;
 }
 
+/*about section*/
 #about{
      margin:10px ;
     padding:10px ;
@@ -69,6 +70,7 @@ h2{
     transform: scale(1.05);
     background-color: darkgrey;
 }
+/*gallery section*/
 
 #gallery{
     display: flex;
@@ -122,13 +124,13 @@ h2{
 
 
 
-git add index.html
+git add style.css
 
 
 
 
 
-git commit -m"feat(index.html)added a comment"
+git commit -m"feat(style.css)added a comment"
 
 
 
