@@ -70,6 +70,7 @@ h2{
     transform: scale(1.05);
     background-color: darkgrey;
 }
+
 /*gallery section*/
 
 #gallery{
@@ -80,7 +81,7 @@ h2{
     background-color: coral;
     border-radius: 5px;
 }
-
+/*photo-card class*/
 .photo-card{
      width: 300px;
     background: aliceblue;
