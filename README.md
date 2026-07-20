@@ -20,8 +20,8 @@ This website is created by a web developer called Peace The website creator is a
  3.HTML structure
 
  # Technologies used
- .HTML
- .CSS
+ 1.HTML
+ 2.CSS
 
 # Getting Started
 clone or download the project files 
