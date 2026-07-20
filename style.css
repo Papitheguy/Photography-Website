@@ -66,6 +66,8 @@ h2{
 
 }
 
+/*hover effect added in the about section*/
+
 #about:hover{
     transform: scale(1.05);
     background-color: darkgrey;
