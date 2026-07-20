@@ -94,7 +94,7 @@ h2{
 .photo-card:hover{
     transform: scale(1.05);
 }
-
+/* the photo-card image styling*/
 .photo-card img{
     width: 100%;
     height:200px;
