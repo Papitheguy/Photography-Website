@@ -24,8 +24,10 @@ This website is created by a web developer called Peace The website creator is a
  2.CSS
 
 # Getting Started
-clone or download the project files 
-Open the folder in your editor 
+Clone the repository link.
+Create the directory inthe terminal.
+Open your VS code in the terminal.
+Open the folder in your editor, 
 run a local server
 
 # Licence
