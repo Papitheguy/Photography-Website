@@ -15,18 +15,18 @@ This website is created by a web developer called Peace The website creator is a
  -Contact containing my contact information
 
  # Features
- 1.index.html
- 2.CSS styling
- 3.HTML structure
+ 1.index.html<br>
+ 2.CSS styling<Br>
+ 3.HTML structure<br>
 
  # Technologies used
- 1.HTML
- 2.CSS
+ 1.HTML<br>
+ 2.CSS<br>
 
 # Getting Started
-Clone the repository link.
-Create the directory inthe terminal.
-Open your VS code in the terminal.
+Clone the repository link.<br>
+Create the directory inthe terminal.<br>
+Open your VS code in the terminal.<br>
 Open the folder in your editor, 
 run a local server
 
